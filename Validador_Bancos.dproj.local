@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/11/26 11:44:44.000.686,=C:\Users\anexo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/04/23 15:27:14.000.688,=C:\Users\anexo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/04/23 15:27:47.000.842,C:\Users\anexo\Desktop\Validar\UPrincipal.pas=C:\Users\anexo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/04/23 15:27:47.000.842,C:\Users\anexo\Desktop\Validar\UPrincipal.dfm=C:\Users\anexo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2015/04/23 15:27:53.000.933,C:\Users\anexo\Desktop\Validar\Validador_Bancos.dproj=C:\Users\anexo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
