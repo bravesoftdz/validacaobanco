@@ -1326,8 +1326,8 @@ object Form1: TForm1
     Stretch = True
   end
   object ImgNaoOK: TImage
-    Left = 86
-    Top = 519
+    Left = 39
+    Top = 471
     Width = 25
     Height = 26
     Stretch = True
@@ -1813,8 +1813,8 @@ object Form1: TForm1
   object CDSBoleto: TClientDataSet
     Aggregates = <>
     Params = <>
-    Left = 432
-    Top = 48
+    Left = 568
+    Top = 56
   end
   object DSBoleto: TDataSource
     DataSet = CDSBoleto
